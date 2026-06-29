@@ -15,8 +15,8 @@ KiCadを使用して作成。基盤を発注するのと同様に発注します
 ソクタイプ型のキーキャップを再現するために3Dプリンターで作成します。
 ## ケース
 3Dプリンターで作成します。`bottom-case.stl`
-![Completion](image/case1.jpg)
-![Completion](image/case2.jpg)
+![case1](image/case1.jpeg)
+![case2](image/case2.jpeg)
 ## 製作に必要なもの（上記以外）
 | 名称　　　　  | 個数　　　　  | 備考   　　　　 
 |:------------:|:------------:|:------------:|
