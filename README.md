@@ -1,6 +1,4 @@
 # raft21（ソクタイプ型のDIYキーボード）
-<img width="639" height="302" alt="Image" src="https://github.com/user-attachments/assets/068149b4-a18e-4e09-b95e-374963c3ab1a" />
-
 ![Completion](image/Completion0.jpg)
 
 ## 概要
