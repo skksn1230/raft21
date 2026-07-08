@@ -1,7 +1,8 @@
-## ソケットのはんだ付け
+### ソケットのはんだ付け
 PCBの裏面に、ソケットをはんだ付けします。
-![Completion](socket.jpg)
 
+![Completion](socket.jpg)
+### MCUのはんだ付け
 
 
 ### 完成
