@@ -29,6 +29,7 @@ PCBの表面に、シートを貼っていきます。（図は右端に１つ�
 ニッパーで前部分をカットした状態。
 ![stabilizer2](stabilizer2.jpg)
 ４つのスタビライザーを取り付けます。
+![plate](plate.jpeg)
 ![stabilizer3](stabilizer3.jpg)
 
 ### 完成
