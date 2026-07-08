@@ -14,9 +14,9 @@ PCBの裏面に、ソケットをはんだ付けします。
 すべてはんだ付けできた状態。
 ![MCU5](MCU5.jpg)
 ### 静音シートの貼り付け（任意）
-![switch cushion1](switch cushion1.jpg)
-![switch cushion2](switch cushion2.jpg)
-![switch cushion3](switch cushion3.jpg)
+![switch cushion1](switch_cushion1.jpg)
+![switch cushion2](switch_cushion2.jpg)
+![switch cushion3](switch_cushion3.jpg)
 
 ### 完成
 ![Completion](Completion0.jpg)
