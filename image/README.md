@@ -41,8 +41,8 @@ PCBの表面の上にスイッチプレートを重ね、その上からスイ�
 ### スペーサーの取り付け
 ケースの底側からねじを締め、スペーサーをケースに取り付けます。
 ![spacer1](spacer1.jpg)
-![case1](case1.jpg)
-![case2](case2.jpg)
+![case1](case1.jpeg)
+![case2](case2.jpeg)
 ![spacer2](spacer2.jpg)
 ### 完成
 ![Completion](Completion0.jpg)
