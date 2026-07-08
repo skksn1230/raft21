@@ -7,6 +7,7 @@ PCBの裏面に、ソケットをはんだ付けします。
 ![Completion](MCU1.jpg)
 １つの角（図では右下）をはんだ付けできたら、同様にほかの角もはんだ付けします。
 ![Completion](MCU2.jpg)
+４つの角だけはんだ付けできた状態。
 ![Completion](MCU3.jpg)
 ![Completion](MCU4.jpg)
 ![Completion](MCU5.jpg)
