@@ -48,7 +48,7 @@ PCBの表面の上にスイッチプレートを重ね、その上からスイ�
 ![Completion1](Completion1.jpg)
 ![Completion2](Completion2.jpg)
 ### ゴム足の取り付け
-ケースの底面にゴム足を貼ります。（接着剤など使用するほうが安心かもしれません）
+ケースの底面の４か所にゴム足を貼ります。（接着剤など使用するほうが安心かもしれません）
 ![rubber_feet1](rubber_feet1.jpg)
 ![rubber_feet2](rubber_feet2.jpg)
 ### 完成
